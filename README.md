@@ -35,7 +35,7 @@ Developed a full-stack e-commerce web app replicating Amazon’s core features l
 ---
 
 ## 🎓 Creator
-**Sandeep Gautam**  
+**Yuvraj Singh**  
 B.Tech 3rd Year — Artificial Intelligence & Machine Learning  
 **Pranveer Singh Institute of Technology (PSIT), Kanpur**  
 
