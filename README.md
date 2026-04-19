@@ -1,6 +1,6 @@
 # 🛒 Amazon Clone:
 Developed a full-stack e-commerce web app replicating Amazon’s core features like product browsing, cart management, and order placement. Implemented secure login, admin dashboard, and responsive UI using React.js, Node.js, Express.js, and MongoDB. Integrated REST APIs for seamless data flow and ensured smooth, scalable performance across devices.
-- PREVIEW - [Link](https://amazon-ui-clone-alpha.vercel.app/) 
+- PREVIEW - [Link]([https://amazon-ui-clone-alpha.vercel.app/](https://amazon-ui-clone-html-css-js.onrender.com)) 
 
 ---
 
