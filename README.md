@@ -10,7 +10,7 @@ Developed a full-stack e-commerce web app replicating Amazon’s core features l
 - **Dynamic image slider** using JavaScript  
 - Scrollable **product carousels** for best sellers and deals  
 - Organized layout for different product categories  
-- Custom **footer with creator credits**
+- 
 
 ---
 
